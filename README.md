@@ -17,7 +17,7 @@ CSC_306/
 └── a.out                        # Compiled binary (example)
 ```
 
-## 📌 Key Files
+##  Key Files
 
 | File                        | Description                                 |
 |-----------------------------|---------------------------------------------|
@@ -53,7 +53,7 @@ gcc n_v_r.c -o naive_validator
 ![Single Thread Time](assets/sudoku_naive.png)  
 ![Multi Thread Time](assets/sudoku_multi-threading.png)
 
-## 🧠 Key Findings
+##  Key Findings
 
 - **Single-threaded** version is faster for small grids due to:
   - No thread creation overhead
@@ -63,7 +63,7 @@ gcc n_v_r.c -o naive_validator
   - Working with larger Sudoku grids (e.g., 16×16)
   - Batching multiple validation checks per thread
 
-## 📄 Report
+##  Report
 
 See `Report.pdf` for full analysis including:
 
@@ -76,14 +76,14 @@ See `Report.pdf` for full analysis including:
 
 MIT License
 
-## ✅ Features
+##  Features
 
 1. **Repo Structure Visualization**: Reflects actual project layout.  
 2. **Asset Integration**: Shows screenshots of runtime measurements.  
 3. **Clear Compilation Steps**: For both multithreaded and naive implementations.  
 4. **Performance Benchmark Table**: With linked visual proof.
 
-## 🚀 How to Use
+##  How to Use
 
 1. Place this `README.md` in your `CSC_306/` folder.  
 2. Confirm screenshots are in `assets/` and properly named.  
