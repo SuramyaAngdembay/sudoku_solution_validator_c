@@ -5,7 +5,7 @@ A comparative study of single-threaded vs. multithreaded Sudoku solution validat
 ## 📁 Repository Structure
 
 ```
-CSC_306/
+sudoku_solution_validator_c/
 ├── assets/                    # Screenshots of compilation and performance results
 │   ├── single_thread_time.png
 │   └── multi_thread_time.png
@@ -85,7 +85,7 @@ MIT License
 
 ##  How to Use
 
-1. Place this `README.md` in your `CSC_306/` folder.  
+1. Place this `README.md` in your `sudoku_solution_validator_c/` folder.  
 2. Confirm screenshots are in `assets/` and properly named.  
 3. Update `Report.pdf` filename or section if it changes.
 
