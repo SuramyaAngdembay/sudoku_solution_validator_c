@@ -50,8 +50,8 @@ gcc n_v_r.c -o naive_validator
 | Multithreaded (27 threads)| 2.345 ms        | Thread management dominates    |
 
 📁 _Screenshots available in_ `assets/` _folder:_  
-![Single Thread Time](assets/single_thread_time.png)  
-![Multi Thread Time](assets/multi_thread_time.png)
+![Single Thread Time](assets/sudoku_naive.png)  
+![Multi Thread Time](assets/sudoku_multi-threading.png)
 
 ## 🧠 Key Findings
 
